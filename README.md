@@ -10,11 +10,12 @@
 4. VWorld SR 사진 픽셀 측정 환산
 
 ## 팀원 / 역할
-|  이름  |                  담당                   |
-| 박소연 | F9P 운용, RTKLIB PPK, 분석, PM           |
-| 정인욱 | VWorld 캡쳐, Real-ESRGAN SR, PSNR/SSIM  |
-| 방지혜 | RasPi 로깅, 현장 운용                    |
-| 이재덕 | 현장 보조, 픽셀 측정 도구, Folium 지도    |
+| 이름 | 담당 |
+|---|---|
+| 박소연 | F9P 운용, RTKLIB PPK, 분석, PM |
+| 정인욱 | VWorld 캡쳐, Real-ESRGAN SR, PSNR/SSIM |
+| 방지혜 | RasPi 로깅, 현장 운용 |
+| 이재덕 | 현장 보조, 픽셀 측정 도구, Folium 지도 |
 
 ## 폴더 구조
 - `raw/` — F9P raw .ubx 로그 (3번)
